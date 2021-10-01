@@ -1,0 +1,4 @@
+# Operation
+type Query {
+  helloworld: String
+}
